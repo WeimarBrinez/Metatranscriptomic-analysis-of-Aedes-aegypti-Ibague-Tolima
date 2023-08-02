@@ -1,0 +1,34 @@
+#	Query	Subject_id	Subject_def	Pident	Align_length	Bitscore	E_value	Classification
+1	TRINITY_DN11785_c1_g3_i1 	gi|1927342161|ref|XR_005080046.1| 	PREDICTED: Artibeus jamaicensis 28S ribosomal RNA (LOC119036702), rRNA 	413	423	726,85	0	Bat
+2	TRINITY_DN671_c1_g1_i2 	gi|1927342161|ref|XR_005080046.1| 	PREDICTED: Artibeus jamaicensis 28S ribosomal RNA (LOC119036702), rRNA 	400	412	695,46	0	Bat
+3	TRINITY_DN7677_c3_g1_i1 	gi|1927342161|ref|XR_005080046.1| 	PREDICTED: Artibeus jamaicensis 28S ribosomal RNA (LOC119036702), rRNA 	437	470	680,69	0	Bat
+4	TRINITY_DN23_c0_g1_i1 	gi|1154886896|ref|NR_146117.1| 	Homo sapiens RNA, 45S pre-ribosomal N4 (RNA45SN4), ribosomal RNA 	551	551	1018,62	0	Human
+5	TRINITY_DN1_c0_g1_i1 	gi|1212788581|gb|MF164260.1| 	Homo sapiens clone BAC JH15 genomic sequence 	1032	1079	1731,43	0	Human
+6	TRINITY_DN1_c0_g1_i4 	gi|1212788581|gb|MF164260.1| 	Homo sapiens clone BAC JH15 genomic sequence 	1727	1730	3179,2	0	Human
+7	TRINITY_DN84_c4_g1_i1 	gi|1212788597|gb|MF164269.1| 	Homo sapiens clone BAC JH1 genomic sequence 	781	782	1439,66	0	Human
+8	TRINITY_DN68_c0_g1_i1 	gi|1238280724|gb|KY962518.1| 	Homo sapiens external transcribed spacer 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and external transcribed spacer, complete sequence 	671	676	1221,76	0	Human
+9	TRINITY_DN110688_c0_g1_i1 	gi|1858626016|gb|MN849868.1| 	Homo sapiens isolate PNG99 haplogroup Q1a mitochondrion, complete genome 	427	427	789,64	0	Human
+10	TRINITY_DN116216_c0_g1_i1 	gi|1858626016|gb|MN849868.1| 	Homo sapiens isolate PNG99 haplogroup Q1a mitochondrion, complete genome 	516	516	953,99	0	Human
+11	TRINITY_DN12642_c0_g1_i1 	gi|1858626016|gb|MN849868.1| 	Homo sapiens isolate PNG99 haplogroup Q1a mitochondrion, complete genome 	1521	1522	2806,18	0	Human
+12	TRINITY_DN1_c0_g2_i4 	gi|1992539536|gb|MT497461.1| 	Homo sapiens genomic sequence 	1115	1116	2054,59	0	Human
+13	TRINITY_DN23_c0_g2_i1 	gi|1992539538|gb|MT497387.1| 	Homo sapiens clone BAC JH13 genomic sequence 	558	558	1031,55	0	Human
+14	TRINITY_DN110_c0_g1_i1 	gi|1021673806|gb|KX061883.1| 	Macaca mulatta clone CH250-701 precursor 48S ribosomal RNA, 18S ribosomal RNA, 5.8S ribosomal RNA, and 28S ribosomal RNA genes, complete sequence 	478	492	830,27	0	Indeterminate
+15	TRINITY_DN110_c0_g1_i1 	gi|1021673810|gb|KX061887.1| 	Gorilla gorilla precursor 48S ribosomal RNA, 18S ribosomal RNA, 5.8S ribosomal RNA, and 28S ribosomal RNA genes, complete sequence 	478	492	830,27	0	Indeterminate
+16	TRINITY_DN110_c0_g1_i1 	gi|1021673813|gb|KX061890.1| 	Macaca mulatta precursor 48S ribosomal RNA, 18S ribosomal RNA, 5.8S ribosomal RNA, and 28S ribosomal RNA genes, complete sequence 	478	492	830,27	0	Indeterminate
+17	TRINITY_DN110_c0_g1_i1 	gi|1753018288|ref|XR_004069086.1| 	PREDICTED: Gorilla gorilla gorilla 18S ribosomal RNA (LOC115933042), rRNA 	478	492	830,27	0	Indeterminate
+18	TRINITY_DN93972_c0_g1_i1 	gi|1238280724|gb|KY962518.1| 	Homo sapiens external transcribed spacer 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and external transcribed spacer, complete sequence 	289	290	531,11	2,00E-146	Human
+19	TRINITY_DN105953_c0_g1_i1 	gi|1190248917|ref|NG_050638.2| 	Homo sapiens ribosomal protein S29 (RPS29), RefSeqGene (LRG_1147) on chromosome 14 	282	285	510,8	2,12E-140	Human
+20	TRINITY_DN67366_c0_g1_i1 	gi|1850793467|gb|MN964117.1| 	Mus musculus voucher MA364 mitochondrion, complete genome 	230	230	425,85	6,19E-115	Mouse
+21	TRINITY_DN526_c11_g1_i7 	gi|1701710600|ref|NM_178205.3| 	Mus musculus H3 clustered histone 6 (H3c6), mRNA 	139	164	163,62	1,38E-35	Mouse
+22	TRINITY_DN1115_c0_g1_i2 	gi|701391881|ref|XM_009996559.1| 	PREDICTED: Chaetura pelagica jumonji domain containing 6 (JMJD6), mRNA 	292	392	154,39	1,41E-32	Bird
+23	TRINITY_DN8096_c1_g4_i1 	gi|1040128232|ref|XM_017338831.1| 	PREDICTED: Oryctolagus cuniculus adaptor related protein complex 2 sigma 1 subunit (AP2S1), mRNA 	110	124	150,7	2,43E-31	Rabbit
+24	TRINITY_DN64691_c0_g1_i1 	gi|1820962583|ref|XM_032888883.1| 	PREDICTED: Rattus rattus dynein axonemal heavy chain 8 (Dnah8), mRNA 	203	264	148,85	2,67E-31	Rat
+25	TRINITY_DN4501_c0_g1_i1 	gi|1953337927|ref|XM_038433543.1| 	PREDICTED: Canis lupus familiaris charged multivesicular body protein 4B (CHMP4B), mRNA 	186	240	143,31	5,27E-29	Dog
+26	TRINITY_DN2827_c0_g1_i10 	gi|1679819138|ref|XM_021180455.2| 	PREDICTED: Mus caroli histone H2A type 1-J-like (LOC110308102), mRNA 	96	107	135,93	3,72E-27	Mouse
+27	TRINITY_DN47253_c0_g1_i4 	gi|1944674735|ref|XM_038172506.1| 	PREDICTED: Anas platyrhynchos DR1 associated protein 1 (DRAP1), mRNA 	204	267	137,77	3,78E-27	Bird
+28	TRINITY_DN14943_c0_g1_i1 	gi|1033368609|ref|XM_003224269.3| 	PREDICTED: Anolis carolinensis DnaJ heat shock protein family (Hsp40) member C21 (dnajc21), mRNA 	167	214	132,23	1,40E-25	Lizard
+29	TRINITY_DN12051_c0_g1_i1 	gi|1561807894|ref|XM_027891920.1| 	PREDICTED: Empidonax traillii selenoprotein T (SELENOT), mRNA 	123	154	111,92	9,95E-20	Bird
+30	TRINITY_DN72126_c0_g1_i2 	gi|2024487479|ref|XM_040666560.1| 	PREDICTED: Gallus gallus SIM bHLH transcription factor 1 (SIM1), transcript variant X3, mRNA 	112	139	108,23	3,52E-19	Bird
+31	TRINITY_DN4975_c0_g1_i1 	gi|1561780998|ref|XM_027877758.1| 	PREDICTED: Empidonax traillii SPOUT domain containing methyltransferase 1 (SPOUT1), mRNA 	92	114	87,91	2,32E-12	Bird
+32	TRINITY_DN90039_c0_g1_i1 	gi|1238280724|gb|KY962518.1| 	Homo sapiens external transcribed spacer 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and external transcribed spacer, complete sequence 	44	44	82,37	1,57E-11	Human
+33	TRINITY_DN469_c0_g1_i1 	gi|1690489449|gb|MK280359.1| 	Homo sapiens lncAB370.3 lncRNA gene, complete sequence 	46	47	80,53	6,46E-11	Human
