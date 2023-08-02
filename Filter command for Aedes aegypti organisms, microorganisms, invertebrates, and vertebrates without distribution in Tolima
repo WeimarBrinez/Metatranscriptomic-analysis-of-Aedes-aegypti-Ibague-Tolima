@@ -1,4 +1,4 @@
-# Script in R
+# Script in R_In this example we use Filtro_Anfitriones_13.xml (Blastn result for Comuna13 in format .xml) to filter
 #Install Packages
 install.packages ("dplyr")
 install.packages ("strinr")
